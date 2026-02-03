@@ -1,0 +1,3 @@
+print("Project: FitTrack Mobile App")
+print("Team: Development Team Alpha")
+print("Start Date: January 2026")
